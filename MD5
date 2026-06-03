@@ -1,0 +1,11 @@
+209c3b61fe60f0a4d79ad4753d6617fb *DESCRIPTION
+85d37725162213ed8b6e6b48c9a3299f *LICENSE
+9549c5c2b5979e544efb33c5c1fb3fa3 *NAMESPACE
+362485b5c65e5aa64cefa757bba1fb2f *R/sgmean.R
+3d4307b7477a3f2d12b1eae23789a76b *README.md
+8f27460254a22a1884dca60e6ad89f2e *build/vignette.rds
+a48bb769c4ff7fb7554a5a8dd9c0a419 *inst/doc/sgmean-introduccion.R
+ba0d366c7f24ab3aa63c9a687da35fc1 *inst/doc/sgmean-introduccion.Rmd
+4de54511570c3adaf12bbd396b19581d *inst/doc/sgmean-introduccion.html
+f2d7d7a72132abfc10fe19cc8fb614de *man/sgmean.Rd
+ba0d366c7f24ab3aa63c9a687da35fc1 *vignettes/sgmean-introduccion.Rmd
