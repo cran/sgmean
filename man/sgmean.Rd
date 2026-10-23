@@ -13,7 +13,7 @@ sgmean(x, trim = 0.05, na.rm = FALSE)
 each end of the sorted data. Must be in \eqn{[0, 0.5)}.}
 
 \item{na.rm}{Logical. Should missing values be removed before
-computation? Default is \code{FALSE}.}
+computation? Default is \code{FALSE}; if \code{FALSE} and \code{x} contains \code{NA}, the result is \code{NA}, as in \code{mean()}.}
 }
 \value{
 A single numeric scalar.
